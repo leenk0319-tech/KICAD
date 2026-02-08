@@ -45,8 +45,5 @@ Gerber and Drill files are included and ready for fabrication.
 - Arduino ↔ 3.3V sensor interface
 - MCU ↔ OLED / IMU / I2C peripherals
 
----
 
-## Author
-Designed by (Your Name)
 
