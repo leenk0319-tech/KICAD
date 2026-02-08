@@ -1,5 +1,5 @@
 # KICAD
-서로 다른 전압(5V / 3.3V)을 사용하는 MCU와 센서 간 안정적인 I2C 통신을 위해 PCA9306 기반 양방향 레벨 시프터 PCB를 설계하고, Gerber/BOM까지 제작한 프로젝트.
+
 ## Overview
 This project is a 5V ↔ 3.3V bidirectional I2C level shifter PCB based on the PCA9306 (Texas Instruments).  
 It enables safe communication between 5V MCUs (e.g., Arduino) and 3.3V sensors.
